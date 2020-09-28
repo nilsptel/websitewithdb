@@ -1,7 +1,7 @@
 
 <?php 
 //create connection
-$conn = mysqli_connect('localhost','root','','sms');
+$conn = mysqli_connect('admin.ceai1nbzvwue.us-east-1.rds.amazonaws.com','admin','admin123','admin');
 
 //check connection
 
